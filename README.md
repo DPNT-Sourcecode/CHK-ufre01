@@ -11,7 +11,7 @@
 
 ## 2. How to start
 
-- Install dependencies `pip install -r requirements.txt`
+- Install dependencies `pip install -r requirements.txERROR: Could not build wheels for docopt, which is required to install pyproject.toml-based projects
+t`
 - Open `lib/send_command_to_server.py`
 - Read the comments as documentation, they will guide through the rest of the setup
-
